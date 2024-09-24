@@ -1,0 +1,61 @@
+body {
+    font-family: 'Lexend', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #f5f5dc; /* Cream color */
+    color: #333;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 0 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    background: #333;
+    color: #fff;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.experience p, .project p {
+    font-size: 0.875rem; /* Smaller font size for experience and project descriptions */
+}
+
+a {
+    color: #0066cc;
+}
